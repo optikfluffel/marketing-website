@@ -2,7 +2,7 @@
 application_name_full                     : Raivo OTP
 application_name_short                    : Raivo
 application_subtitle                      : Simply the best authenticator
-application_description                   : A native, lightweight, non-commercial and secure multi-factor authenticator that synchronises your one-time passwords across all of your Apple devices.
+application_description                   : A native, lightweight and secure multi-factor authenticator that synchronises your one-time passwords across all of your Apple devices.
 application_app_icon_link                 : img/app-icon.png
 application_apple_app_store_ios_id        : 1459042137
 application_apple_app_store_ios_link      : https://apps.apple.com/app/raivo-otp/id1459042137?platform=iphone
@@ -46,8 +46,8 @@ features                                  :
   - title                                 : Powerful search
     description                           : Search through all of your one-time passwords with one tap under your thumb.
     icon                                  : search
-  - title                                 : Native & open source
-    description                           : Experience the fast native application built in Swift 5. And it's open source too!
+  - title                                 : Native
+    description                           : Experience the fast native application built in Swift 5.
     icon                                  : code
   
 # Retrieve app release data from GitHub
